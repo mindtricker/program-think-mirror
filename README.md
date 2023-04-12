@@ -1,6 +1,8 @@
 ## 简介
 
-这个仓库克隆自https://github.com/cirubla/cirubla.github.io)，是“编程随想”博客的镜像。你可以把整个仓库下载到你本地，点击index.html即可查看整个博客的文章和评论。
+这个仓库克隆自https://github.com/cirubla/cirubla.github.io 
+
+是“编程随想”博客的镜像，你可以把整个仓库下载到你本地，点击index.html即可查看整个博客的文章和评论。
 
 ## 如何帮助
 
